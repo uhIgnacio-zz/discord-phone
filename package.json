@@ -1,0 +1,32 @@
+{
+  "name": "discord-phone",
+  "version": "1.0.0",
+  "description": "Spoof your discord status modifying the Websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhIgnacio/discord-phone.git"
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "phone",
+    "discordphone",
+    "selfbot"
+  ],
+  "author": "igna#1337",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/uhIgnacio/discord-phone/issues"
+  },
+  "homepage": "https://github.com/uhIgnacio/discord-phone#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js-selfbot-v11": "^11.5.1",
+    "dotenv": "^10.0.0"
+  }
+}
